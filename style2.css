@@ -29,17 +29,9 @@
     margin-bottom: 24px;
 }
 
-.box-wrapper1 {
+.box-wrapper {
     width: 100%;
     max-width: 600px;
     display: flex;
     justify-content: space-between;
 }
-
-.box-wrapper2 {
-    width: 100%;
-    max-width: 600px;
-    display: flex;
-    justify-content: space-between;
-}
-
